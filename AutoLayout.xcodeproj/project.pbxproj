@@ -14,6 +14,7 @@
 		25057D9D1A4CFFD300F6BCD2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 25057D9B1A4CFFD300F6BCD2 /* LaunchScreen.xib */; };
 		25057DA91A4CFFD300F6BCD2 /* AutoLayoutTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 25057DA81A4CFFD300F6BCD2 /* AutoLayoutTests.m */; };
 		254945141BE89DE700D58FF1 /* ffViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 254945131BE89DE700D58FF1 /* ffViewController.m */; };
+		254D21161D3CBFC2000DE2A1 /* 屏幕快照 2016-07-18 下午3.41.27.png in Resources */ = {isa = PBXBuildFile; fileRef = 254D21151D3CBFC2000DE2A1 /* 屏幕快照 2016-07-18 下午3.41.27.png */; };
 		257D9CE31A5CC13700329271 /* FooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 257D9CE21A5CC13700329271 /* FooterView.m */; };
 		257D9CE61A5CD35000329271 /* CustomTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 257D9CE51A5CD35000329271 /* CustomTableViewCell.m */; };
 		257D9CE81A5CD7AA00329271 /* 天气预报图标下载@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 257D9CE71A5CD7AA00329271 /* 天气预报图标下载@2x.png */; };
@@ -53,6 +54,7 @@
 		25057DA81A4CFFD300F6BCD2 /* AutoLayoutTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutoLayoutTests.m; sourceTree = "<group>"; };
 		254945121BE89DE700D58FF1 /* ffViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ffViewController.h; sourceTree = "<group>"; };
 		254945131BE89DE700D58FF1 /* ffViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ffViewController.m; sourceTree = "<group>"; };
+		254D21151D3CBFC2000DE2A1 /* 屏幕快照 2016-07-18 下午3.41.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-07-18 下午3.41.27.png"; sourceTree = "<group>"; };
 		257D9CE11A5CC13700329271 /* FooterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FooterView.h; sourceTree = "<group>"; };
 		257D9CE21A5CC13700329271 /* FooterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FooterView.m; sourceTree = "<group>"; };
 		257D9CE41A5CD35000329271 /* CustomTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomTableViewCell.h; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 		25057D8C1A4CFFD300F6BCD2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				254D21151D3CBFC2000DE2A1 /* 屏幕快照 2016-07-18 下午3.41.27.png */,
 				257D9CE71A5CD7AA00329271 /* 天气预报图标下载@2x.png */,
 				25AEB82E1A5BC72B00D10022 /* Default-568h@2x.png */,
 				25AEB82F1A5BC72B00D10022 /* Default.png */,
@@ -265,6 +268,7 @@
 				25BA84AF1A526BB7009041C6 /* ddViewController.xib in Resources */,
 				25057D9A1A4CFFD300F6BCD2 /* Images.xcassets in Resources */,
 				25AEB8321A5BC72B00D10022 /* Default.png in Resources */,
+				254D21161D3CBFC2000DE2A1 /* 屏幕快照 2016-07-18 下午3.41.27.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
